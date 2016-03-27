@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Ellaquimica blog</title>
+    </head>
+    <body>
+        <div>
+            <h1><a href="">Django Girls Blog</a></h1>
+        </div>
+
+        <div>
+            <p>published: 26.03.2016, 16:12</p>
+            <h2><a href="">My firts post</a></h2>
+	    <p>Blog creado por ellaquimica en taller de programación
+        </div>
+
+	<div>
+            <p>published: 27.03.2016, 16:13</p>
+            <h2><a href="">My Second post</a></h2>
+	    <p>Segundo post</p>
+	</div>
+    </body>
+<html>

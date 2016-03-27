@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>Ellaquimica blog</title>
+    </head>
+    <body>
+    {{ posts }}
+    </body>
+<html>
